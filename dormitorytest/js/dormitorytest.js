@@ -28,10 +28,10 @@ class PersonalTest {
             술이된인: {title:"가장 순수한 간을 지닌 아이들만 가르치도록 하세", desc: "지략<br />야망<br />교활<br />결단력<br />긍지<br />형제애"}
         }
         this.resultImages = {
-            굴러온도르: './src/images/굴러온도르.png', // 'G' 결과에 대한 이미지 URL
-            훌라후프: './src/images/훌라후프.png', // 'H' 결과에 대한 이미지 URL
-            레진치료: './src/images/레진치료.png',   // 'R' 결과에 대한 이미지 URL
-            술이된인: './src/images/술이된인.png'    // 'S' 결과에 대한 이미지 URL
+            굴러온도르: './src/images/gul.png', // 'G' 결과에 대한 이미지 URL
+            훌라후프: './src/images/hul.png', // 'H' 결과에 대한 이미지 URL
+            레진치료: './src/images/rezin.png',   // 'R' 결과에 대한 이미지 URL
+            술이된인: './src/images/sul.png'    // 'S' 결과에 대한 이미지 URL
         };        
         this.responseTimes = {};
         this.init();
