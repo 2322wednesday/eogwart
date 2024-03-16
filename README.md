@@ -8,7 +8,7 @@
 
 ## 실제 실행 페이지
 
-어그와트 기숙사 테스트를 직접 해보고 싶다면, 다음 링크를 방문하세요: [어그와트 기숙사 테스트](https://2322wednesday.github.io/eogwart/dormitorytest/)
+어그와트 기숙사 테스트를 직접 해보고 싶다면, 다음 링크를 방문하세요: [어그와트 기숙사 테스트](https://2322wednesday.github.io/eogwart/)
 
 ## 시작하기
 
